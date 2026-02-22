@@ -6,3 +6,7 @@ __pycache__/
 project28.log
 memory.json
 data/
+praygpt.log
+main_out.log
+main.log
+reports/
